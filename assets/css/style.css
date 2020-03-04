@@ -2756,3 +2756,30 @@ h1 span {
 [data-animate].animated {
     visibility: visible;
 }
+
+
+.form-control{
+    border : 1px solid #5B39C9;
+}
+.style-badge{
+    display: inline-block;
+    vertical-align: middle;
+    background-color: green;
+    color:white;
+/*    height: 3em;*/
+    width:2em;
+    border-radius: 50%;
+    margin-right: .2em;
+    position: relative;
+    right: 10%;
+}
+.same--width{
+    max-width: 75%;
+    display: block;
+}
+.footer-bg{
+    background-color: #cecece;
+}
+.footer-links{
+    color: #6f6c7f;
+}
